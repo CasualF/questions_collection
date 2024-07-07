@@ -4,34 +4,40 @@
 
 # Содержание
 
-1. [Основы программирования](basics/index.md)
-   - [Вопрос 1](http/question1.md)
-   - [Вопрос 2](basics/question2.md)
-2. [Базы данных](databases/index.md)
-   - [Вопрос 1](databases/question1.md)
-   - [Вопрос 2](databases/question2.md)
+1. [Основы программирования на Python](basics/index.md)
+    1. [Вопрос 1](topics/protocols/question1.md)
+    2. [Вопрос 2](basics/question2.md)
+2. [Базы данных](topics/databases/index.md)
+    1. [Вопрос 1](topics/databases/question1.md)
+    2. [Вопрос 2](topics/databases/question2.md)
 3. [Сетевые технологии](networking/index.md)
-   - [Вопрос 1](networking/question1.md)
-   - [Вопрос 2](networking/question2.md)
+    1. [Вопрос 1](networking/question1.md)
+    2. [Вопрос 2](networking/question2.md)
 4. [Разработка и проектирование систем](system-design/index.md)
-   - [Вопрос 1](system-design/question1.md)
-   - [Вопрос 2](system-design/question2.md)
-
+    1. [Вопрос 1](system-design/question1.md)
+    2. [Вопрос 2](system-design/question2.md)
+   
 
 # Автор
 Меня зовут Дастан, я python backend разработчик.
 
 Контакты:
 
-<a href="https://www.linkedin.com/in/dastan-asanov/" target="_blank">
-    <img src="img/linkedin.png" alt="LinkedIn" style="width:12px;height:12px;">
-    LinkedIn
-</a>
-<a href="https://www.github.com/CasualF/" target="_blank">
-    <img src="img/github.jpg" alt="LinkedIn" style="width:22px;height:14px;">
-    Github
-</a>
-<a href="https://www.linkedin.com/in/dastan-asanov/" target="_blank">
-    <img src="img/gmail.png" alt="LinkedIn" style="width:20px;height:20px;">
-    Mail
-</a>
+<div class="contact-container">
+  <div class="contact-item">
+      <img src="img/linkedin.png" alt="LinkedIn">
+      <a href="https://www.linkedin.com/in/dastan-asanov" class="contact-link">LinkedIn</a>
+  </div>
+  <div class="contact-item">
+      <img src="img/github.png" alt="Github">
+      <a href="https://github.com/CasualF" class="contact-link">Github</a>
+  </div>
+  <div class="contact-item">
+      <img src="img/mail.png" alt="Email">
+      <span>dastan12151@gmail.com</span>
+  </div>
+  <div class="contact-item">
+      <img src="img/phone.png" alt="Phone">
+      <span>+7 747 840 6127</span>
+  </div>
+</div>

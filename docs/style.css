@@ -1,0 +1,27 @@
+.section a:visited {
+    color: #2982bb;
+}
+.contact-container {
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+}
+.contact-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.contact-item a, span {
+    margin-bottom: 10px;
+}
+.contact-item img {
+    width: 24px;
+    height: 24px;
+}
+.contact-link {
+    color: #2982bb;
+    text-decoration: none;
+}
+ul, ol {
+    padding-left: 20px; /* Increase padding for nested lists */
+}

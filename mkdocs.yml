@@ -1,3 +1,31 @@
 site_name: Questions Collection
 
-theme: readthedocs
+nav:
+  - Home: index.md
+  - Content:
+    - Python: topics/python/index.md
+    - Principles: topics/principles/index.md
+    - Databases: topics/databases/index.md
+    - Protocols: topics/protocols/index.md
+    - Frameworks: topics/frameworks/index.md
+    - Security: topics/security/index.md
+    - AWS: topics/aws/index.md
+    - CI/CD: topics/ci_cd/index.md
+    - Containerization: topics/containerization/index.md
+    - Git: topics/git/index.md
+    - Testing: topics/testing/index.md
+    - MessageQueues: topics/mqs/index.md
+
+theme:
+  name: mkdocs
+  color_mode: auto
+  user_color_mode_toggle: true
+  include_homepage_in_sidebar: false
+  navigation_depth: 3
+  locale: ru
+  logo: null # img/favicon.ico
+
+extra_css:
+  - style.css
+
+site_author: Asanov Dastan
