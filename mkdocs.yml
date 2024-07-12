@@ -14,7 +14,7 @@ nav:
     - Containerization: topics/containerization/index.md
     - Git: topics/git/index.md
     - Testing: topics/testing/index.md
-    - MessageQueues: topics/mqs/index.md
+    - System-Design: topics/system_design/index.md
 
 theme:
   name: mkdocs
