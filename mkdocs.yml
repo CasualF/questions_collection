@@ -12,7 +12,7 @@ nav:
     - AWS: topics/aws/index.md
     - CI/CD: topics/ci_cd/index.md
     - Containerization: topics/containerization/index.md
-    - Git: topics/git/index.md
+    - Git: topics/version_control/index.md
     - Testing: topics/testing/index.md
     - System-Design: topics/system_design/index.md
 
